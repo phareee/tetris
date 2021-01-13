@@ -3,3 +3,6 @@ Tetris, tile-matching puzzle game, in a version of ascii on the screen which con
 
 
 Player can control the game through serial terminal via UART: press ‘a’ to move block to the left, press ‘s’ to move block to bottom quicker, press ‘d’ to move block to the right and press space bar to rotate block. The interrupt is also set, the first priority is USER BUTTON. It means that whenever the USER BUTTON is pushed, it will perform its function that is to pause and resume playing. The RESET BUTTON will reset and start new game whenever it’s pushed.
+
+Click here to see the demonstration video
+https://drive.google.com/open?id=1fvV52Wdov8W2aoxaEbBZufu9WPfSl3Yf
